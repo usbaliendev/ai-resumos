@@ -1,8 +1,8 @@
 # OpenAI Resume.io
+Um webapp que consume um AI API que resume artigos e URLs em inglês (por agora, tradução API será implementada)
 
-Uma webapp que consume um AI API que resume artigos e URLs em inglês (por agora, tradução API será implementada)
-
-![Anime Website](https://raw.githubusercontent.com/usbaliendev/animevault/main/public/project.png)
+![Anime Website](https://raw.githubusercontent.com/usbaliendev/ai-resumos/main/src/assets/Screenshot_2.png)
+[Project Live Link](https://ai-resumos.vercel.app/)
 
 ### [🌐 Meu portfolio website](https://usbaliendev.com/)
 

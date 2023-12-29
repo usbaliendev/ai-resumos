@@ -1,4 +1,4 @@
-# OpenAI Resume.io
+# OpenAI Resume-io
 Um webapp que consume um AI API que resume artigos e URLs em inglês (por agora, tradução API será implementada)
 
 ![Anime Website](https://raw.githubusercontent.com/usbaliendev/ai-resumos/main/src/assets/Screenshot_2.png)
